@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Shopping.com
 x-complete: 1
@@ -112,4 +111,3 @@ paths:
           description: OK
       tags:
       - ""
----

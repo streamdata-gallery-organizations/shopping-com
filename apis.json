@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Shopping.com",
+	"description": "This is a repository of shopping.com APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/shopping-com.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-31",
+	"url": "http://shopping-com.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Shopping.com",
+			"x-api-slug": "shopping-com",
+			"description": "",
+			"image": "",
+			"humanURL": "http://sandbox.api.shopping.com",
+			"baseURL": "https://sandbox.api.shopping.com//publisher/3.0/rest/",
+			"tags": "Shopping.com",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/shopping-com/master/_listings/shopping-com/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Shopping.com",
+	"include": [
+		{
+			"name": "Shopping.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/shopping-com/master/_listings/shopping-com/apis.yaml"
+		}
+	]
+}

@@ -6,8 +6,8 @@ image: ""
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Shopping.com
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-31"
+modified: "2018-08-31"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/shopping-com/master/_listings/shopping-com/apis.md
 specificationVersion: "0.14"
 apis:
